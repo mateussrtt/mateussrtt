@@ -1,4 +1,6 @@
-### Hello World, eu sou o Mateus!
+### 👩🏻‍💻 Hello World, eu sou o Mateus!
+**`Cientista de Dados`**
+
 <hr>
 
 Cursando o segundo período em Sistemas de Informação na Universidade Federal de Ouro Preto e atualmente sou Estagiário de Data Science na Compass UOL.
