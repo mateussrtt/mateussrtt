@@ -1,5 +1,5 @@
 ### 👩🏻‍💻 Hello World, eu sou o Mateus!
-**`Cientista de Dados`**
+**`Estagiário em Ciência de Dados`**
 
 <hr>
 
