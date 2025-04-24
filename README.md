@@ -1,9 +1,9 @@
 ### 👩🏻‍💻 Hello World, eu sou o Mateus!
-**`Estagiário em Ciência de Dados`**
+**`Cientista de Dados`**
 
 <hr>
 
-Cursando o terceiro período em Sistemas de Informação na Universidade Federal de Ouro Preto e atualmente sou Estagiário de Data Science na Compass UOL.
+Cursando o terceiro período em Sistemas de Informação na Universidade Federal de Ouro Preto e focado em desbravar a área de dados.
 - 💬 Desde novo eu sempre fui uma pessoa interessada pela área da tecnologia, desbravando o Windows e a Internet. Resolvi mergulhar profissionalmente nesta área devido ao poder de ajuda
   que a tecnologia nos proporciona, sempre conseguindo gerar novas soluções que irão agregar a um grupo de pessoas.
   
